@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,sacdnssedge.com
-  - DOMAIN-SUFFIX,tsyndicate.com
-  - DOMAIN-SUFFIX,magsrv.com
-  - DOMAIN-SUFFIX,bankingbloatedcaptive.com
-  - DOMAIN-SUFFIX,playhubconnect.com
+  - DOMAIN-KEYWORD,sacdnssedge.com
+  - DOMAIN-KEYWORD,tsyndicate.com
+  - DOMAIN-KEYWORD,magsrv.com
+  - DOMAIN-KEYWORD,bankingbloatedcaptive.com
+  - DOMAIN-KEYWORD,playhubconnect.com
