@@ -1,6 +1,7 @@
+# 文件：ruleset/my-reject.yaml
 payload:
-  - DOMAIN-KEYWORD,sacdnssedge.com
-  - DOMAIN-KEYWORD,tsyndicate.com
-  - DOMAIN-KEYWORD,magsrv.com
-  - DOMAIN-KEYWORD,bankingbloatedcaptive.com
-  - DOMAIN-KEYWORD,playhubconnect.com
+  - DOMAIN-SUFFIX,sacdnssedge.com
+  - DOMAIN-SUFFIX,tsyndicate.com
+  - DOMAIN-SUFFIX,magsrv.com
+  - DOMAIN-SUFFIX,bankingbloatedcaptive.com
+  - DOMAIN-SUFFIX,playhubconnect.com
