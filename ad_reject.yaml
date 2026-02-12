@@ -1,12 +1,6 @@
-# 广告域名拦截列表
-# DOMAIN,sacdnssedge.com
-# DOMAIN,ads.example.com
-# DOMAIN-SUFFIX,doubleclick.net
-# DOMAIN-SUFFIX,googleadservices.com
-
-DOMAIN-SUFFIX,sacdnssedge.com
-DOMAIN-SUFFIX,tsyndicate.com
-DOMAIN-SUFFIX,magsrv.com
-DOMAIN-SUFFIX,bankingbloatedcaptive.com
-DOMAIN-SUFFIX,playhubconnect.com
-DOMAIN-SUFFIX,frozenpayerpregnant.com
+payload:
+  - DOMAIN-SUFFIX,sacdnssedge.com
+  - DOMAIN-SUFFIX,tsyndicate.com
+  - DOMAIN-SUFFIX,magsrv.com
+  - DOMAIN-SUFFIX,bankingbloatedcaptive.com
+  - DOMAIN-SUFFIX,playhubconnect.com
