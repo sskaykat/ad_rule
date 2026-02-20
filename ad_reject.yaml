@@ -10,17 +10,4 @@ payload:
   - DOMAIN-SUFFIX,bngdin.com
   - DOMAIN-SUFFIX,candynetwork.ai
   - DOMAIN-SUFFIX,erodalabs.com
-
-# 爱奇艺
-  - DOMAIN-SUFFIX,adv.iqiyi.com
-  - DOMAIN-SUFFIX,cupid.iqiyi.com
-  - DOMAIN-SUFFIX,ifacelog.iqiyi.com
-  - DOMAIN-SUFFIX,adsense.iqiyi.com
-  - DOMAIN-SUFFIX,paopao.iqiyi.com
-  - DOMAIN-SUFFIX,msg.iqiyi.com
-  - DOMAIN-SUFFIX,qiyiadv.com
-  - DOMAIN-KEYWORD,iqiyi-ad
-  - DOMAIN-KEYWORD,qiyiadv
-  - DOMAIN-KEYWORD,iq-adserver
-  - URL-REGEX,/ads/
-  - URL-REGEX,/ad\.js
+  - DOMAIN-SUFFIX,clammyendearedkeg.com
